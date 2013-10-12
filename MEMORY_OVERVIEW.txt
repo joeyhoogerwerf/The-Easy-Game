@@ -1,0 +1,27 @@
+##
+
+1 | Amount of data pushed on GET_user
+
+2.13KB / 8ms
+ 
+[{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"748","click_score":"1","time":"23:05:56","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"747","click_score":"5","time":"23:04:11","multiplier":"5","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"746","click_score":"1","time":"23:03:31","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"745","click_score":"1","time":"23:03:27","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"744","click_score":"1","time":"23:01:28","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"743","click_score":"1","time":"23:01:25","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"742","click_score":"1","time":"23:01:09","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"741","click_score":"1","time":"23:01:05","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"740","click_score":"5","time":"22:59:44","multiplier":"5","ao_clickTurns":"10","ao_superclickTurns":"0"},{"username":"burnoisette","tao_clicks":"1269","score":"4204","click_id":"739","click_score":"1","time":"22:59:34","multiplier":"1","ao_clickTurns":"10","ao_superclickTurns":"0"}]
+
+##
+
+2 | Amount of data pushed on GET_highscore
+
+??
+
+??
+
+##
+
+3 | Amount of data pushed on GET_homepage_data
+
+??
+
+??
+
+##
+
+4 | Amount of data pushed on GET_

@@ -1,0 +1,50 @@
+body{
+	font-family: "lucida grande";
+}
+
+h1{
+	text-align: center;
+}
+
+#heen{
+	font-size: 16pt;
+	text-align: center;
+}
+
+.fb_iframe_widget{
+	width: 600px;
+	display: block;
+	margin: 0px auto;
+}
+
+#wrapper{
+	width: 1308px;
+	margin: 0px auto;
+}
+
+#registerBlo{
+	width: 700px;
+	margin: 0px auto;
+}
+
+footer{
+	width: 500px;
+	margin: 0px auto;
+	font-size: 11pt;
+	text-align: center;
+	color: #000;
+}
+
+footer p:first-child{
+	margin-bottom: 5px;
+}
+
+#lLetters{
+	font-size: 6pt;
+	position: relative;
+	top: 4px;
+}
+
+.pipe{
+	text-decoration: underline;
+}
